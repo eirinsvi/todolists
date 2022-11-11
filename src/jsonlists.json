@@ -1,0 +1,19 @@
+{
+    "lists": [
+        {
+            "id": 1,
+            "title": "Groceries",
+            "url": "/list/Groceries",
+            "items": [
+              {
+                  "name": "apple",
+                  "checked": false
+              },
+              {
+                  "name": "cucumber",
+                  "checked": false
+              }
+            ]
+          }
+    ]
+}
